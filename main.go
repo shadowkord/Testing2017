@@ -1,6 +1,6 @@
 package main
 
-import "fmt"git
+import "fmt"
 
 func main() {
 	fmt.Println("Hell, World")
